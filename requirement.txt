@@ -4,6 +4,7 @@ dj-database-url==2.1.0
 Django==3.2.23
 django-cors-headers==3.10.1
 django-heroku==0.3.1
+django-on-heroku==1.1.2
 djangorestframework==3.14.0
 gunicorn==21.2.0
 importlib-metadata==4.8.3
@@ -15,6 +16,7 @@ numpy @ file:///opt/concourse/worker/volumes/live/e6a5a904-ea21-4841-4eec-d53e1a
 packaging==21.3
 pandas==1.1.5
 psycopg2==2.7.7
+psycopg2-binary==2.9.5
 pyparsing==3.1.1
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
