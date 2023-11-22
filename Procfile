@@ -1,0 +1,1 @@
+web gunicorn getMLResult.wsgi:application --log-file -
